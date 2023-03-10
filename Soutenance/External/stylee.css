@@ -33,7 +33,9 @@ body{
     font-size: 20px;
     margin: 0;
 }
-
+p {
+    color: white;
+}
 .elbody{
     background-color: #1a1a1f;
     display: flex;
